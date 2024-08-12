@@ -2,6 +2,7 @@
 #git commit -m "update readme with a description"
 #git push origin main
 from window import Window, Point, Line
+from cell import Cell
 win = Window(800, 600)
 
 point1 = Point(12,20)
